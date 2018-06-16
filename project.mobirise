@@ -551,10 +551,13 @@
               "color": "#df873d"
             },
             "H3": {
-              "color": "#ffffff"
+              "color": "#333333"
             },
             "SPAN": {
               "color": "#df873d"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#232323"
             }
           },
           "_name": "header10",

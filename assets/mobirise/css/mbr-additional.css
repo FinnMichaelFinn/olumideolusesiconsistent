@@ -1791,10 +1791,14 @@ body {
   color: #df873d;
 }
 .cid-qV21yDJujg H3 {
-  color: #ffffff;
+  color: #333333;
 }
 .cid-qV21yDJujg SPAN {
   color: #df873d;
+}
+.cid-qV21yDJujg .mbr-text,
+.cid-qV21yDJujg .mbr-section-btn {
+  color: #232323;
 }
 .cid-qV2omjg5Df {
   padding-top: 60px;
